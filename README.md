@@ -16,12 +16,6 @@
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mzed19&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzed19&layout=compact&theme=tokyonight)
-
----
-
 ## 📈 Atividade no GitHub
 ![GitHub 3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
