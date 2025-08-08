@@ -6,7 +6,6 @@
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,11 +15,9 @@
 
 ---
 
-## 📈 Atividade no GitHub
 ![GitHub 3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
-## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
 [![Portfolio](https://img.shields.io/badge/-Portfólio-black?logo=firefox&logoColor=white)](https://seusite.com)
