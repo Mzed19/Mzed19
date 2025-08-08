@@ -12,7 +12,7 @@
 
 ---
 
-[![3D Contributions](https://raw.githubusercontent.com/Mzed19/Mzed19/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Mzed19)
+[![3D Contributions](https://raw.githubusercontent.com/Mzed19/Mzed19/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/Mzed19)
 
 ---
 
