@@ -15,6 +15,3 @@
 [![3D Contributions](https://raw.githubusercontent.com/Mzed19/Mzed19/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/Mzed19)
 
 ---
-
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BUJ8YgWa%2FRuuEA76V22d9qA%3D%3D))](https://linkedin.com/in/seu-link)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-black?logo=firefox&logoColor=white)](https://seusite.com)
