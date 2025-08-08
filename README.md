@@ -7,8 +7,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
 [![3D Contributions](https://raw.githubusercontent.com/Mzed19/Mzed19/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/Mzed19)
-
----
