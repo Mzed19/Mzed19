@@ -12,7 +12,7 @@
 
 ---
 
-[![3D Contributions](https://github-profile-3d-contrib.vercel.app/profile?username=Mzed19&theme=dark)](https://github.com/Mzed19)
+[![3D Contributions](https://raw.githubusercontent.com/Mzed19/Mzed19/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Mzed19)
 
 ---
 
