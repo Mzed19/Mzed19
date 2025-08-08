@@ -23,7 +23,7 @@
 ---
 
 ## 📈 Atividade no GitHub
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mzed19&theme=tokyo-night)](https://github.com/Mzed19)
+![GitHub 3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
